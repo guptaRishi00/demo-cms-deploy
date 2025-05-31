@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_demo_tts",
+  "info": {
+    "displayName": "tt"
+  },
+  "options": {},
+  "attributes": {
+    "blow": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}
